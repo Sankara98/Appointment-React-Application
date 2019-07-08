@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import AppointmentComponent from './Components/Appointment/AppointmentComponent'
-import '../App.css'
+import './App.css'
 class App extends Component  {
 
   constructor() {
