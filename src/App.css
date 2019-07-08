@@ -1,33 +1,76 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Merriweather:100,200,300,300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+.calendar-wrapper{
+  position: relative;
+  z-index: 3;
+  padding: 100px;
+  font-size:16px;
+  color: #999999;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.calendar-wrapper  * {
+  box-sizing: border-box;
+}
+.calendar-block{
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: auto;
+  padding: 30px;
+  background-color: white;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.calendar-wrapper form input {
+  display: inline-block;
+  width: 100%;
+  padding: 0 20px;
+  line-height: 50px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid #e6e6e6;
+  border-bottom-width: 3px;
+  border-radius: 5px;
+  outline: 0;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
-.App-link {
-  color: #61dafb;
+.calendar-wrapper form input:not(:last-child) {
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.calendar-wrapper form input[type="input_appt_title"]:focus, .final__register-wrapper form input[type="input_appt_title"]:active, .final__register-wrapper form input[type="input_appt_time"]:focus, .final__register-wrapper form input[type="input_appt_time"]:active {
+  border-color: #cccccc;
+}
+
+.calendar-wrapper table{
+ margin-left: 30px
+}
+.calendar-wrapper button {
+  background: #f6f7f9;
+  border: 1px solid #ced0d4;
+  border-radius: 2px;
+  color: #4b4f56;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 6px 12px;
+}
+
+.calendar-wrapper button:hover {
+  background: #e9ebee;
+}
+.calendar-wrapper button:active {
+  background: #d8dade;
+  border-color: #d8dade;
+}
+.calendar-title{
+     font-size: 1.5em;
+     padding-bottom: 20px;
+     margin: 0 0 20px;
+     border-bottom: 1px dashed #e6e6e6;
 }

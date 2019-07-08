@@ -1,0 +1,44 @@
+.Form {
+    position: absolute;
+    width: 320px;
+    height: 476px;
+    left: 160px;
+    top: 356px;
+    flex-direction: column;
+    border: 1px solid #efefef;
+    background-color:#D65252;
+}
+.today {
+    position: absolute;
+    width: 118px;
+    height: 36px;
+    left: 189px;
+    top: 414px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+    color: #000000;
+
+}
+.date {
+    position: absolute;
+    width: 198px;
+    height: 43px;
+    left: 189px;
+    top: 441px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+.item {
+    margin: auto;  /* Magic! */
+}
