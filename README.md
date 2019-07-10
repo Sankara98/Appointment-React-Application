@@ -14,7 +14,7 @@ This is a web application made to track and manage your appointments in the brow
 - [Getting Started](https://github.com/Sankara98/Appointment-React-Application#getting-started)
 - [Visuals](https://github.com/Sankara98/Appointment-React-Application#visuals)
 - [Available Scripts](https://github.com/Sankara98/Appointment-React-Application#available-scripts)
-    - npm start](https://github.com/Sankara98/Appointment-React-Application#npm-start)
+    - [npm start](https://github.com/Sankara98/Appointment-React-Application#npm-start)
     - [npm test](https://github.com/Sankara98/Appointment-React-Application#npm-test)
     - [npm run build](https://github.com/Sankara98/Appointment-React-Application#npm-run-build)
     - [npm run eject](https://github.com/Sankara98/Appointment-React-Application#npm-run-eject)
