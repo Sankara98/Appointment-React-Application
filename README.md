@@ -1,3 +1,28 @@
+[![Build Status](https://travis-ci.org/Sankara98/Appointment-React-Application.svg?branch=master)](https://travis-ci.org/Sankara98/Appointment-React-Application)
+
+# React Appointment Calendar App
+
+## Description
+
+This is a web application made to track and manage your appointments in the browser.
+
+## Table of Contents
+-[Getting Started](https://github.com/Sankara98/Appointment-React-Application#getting-started)
+-[Visuals](https://github.com/Sankara98/Appointment-React-Application#visuals)
+-[Available Scripts](https://github.com/Sankara98/Appointment-React-Application#available-scripts)
+    -[npm start](https://github.com/Sankara98/Appointment-React-Application#npm-start)
+    -[npm test](https://github.com/Sankara98/Appointment-React-Application#npm-test)
+    -[npm run build](https://github.com/Sankara98/Appointment-React-Application#npm-run-build)
+    -[npm run eject](https://github.com/Sankara98/Appointment-React-Application#npm-run-eject)
+-[RoadMap](https://github.com/Sankara98/Appointment-React-Application#roadmap)
+-[Contributing](https://github.com/Sankara98/Appointment-React-Application#contributing)
+
+## Getting Started
+To check out the application directory, clone it  [here](https://sankara98.github.io/Appointment-React-Application/).
+
+##Visuals
+
+To check out the app click [here](https://sankara98.github.io/Appointment-React-Application/).
 
 ## Available Scripts
 
@@ -14,6 +39,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
@@ -32,18 +58,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Making a Progressive Web App
+## RoadMap
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+If you want to see a new feature feel free to [create a new Issue](https://github.com/Sankara98/Appointment-React-Application/issues/new). Here are some features which are either under way or planned:
+    - API Integration tracking new users.
+    - UI improvments.
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Contributing
+Pull requests are welcome. For major changes, please open an [issue](https://github.com/Sankara98/Appointment-React-Application/issues/new). first to discuss what you would like to change. Feel free to create an enviroment to showcase your builds
 
-### Deployment
+Please make sure to update tests as appropriate.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Authors and acknowledgments
+This application is maintained by Sankara Ekane.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
