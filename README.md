@@ -24,7 +24,7 @@ This is a web application made to track and manage your appointments in the brow
 ## Getting Started
 To check out the application directory, clone it  [here](https://sankara98.github.io/Appointment-React-Application/).
 
-##Visuals
+## Visuals
 
 To check out the app click [here](https://sankara98.github.io/Appointment-React-Application/).
 
