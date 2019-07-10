@@ -4,8 +4,6 @@
 
 # React Appointment Calendar App
 
----
-
 ## Description
 
 This is a web application made to track and manage your appointments in the browser.
