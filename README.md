@@ -1,21 +1,25 @@
 [![Build Status](https://travis-ci.org/Sankara98/Appointment-React-Application.svg?branch=master)](https://travis-ci.org/Sankara98/Appointment-React-Application)
 
+---
+
 # React Appointment Calendar App
+
+---
 
 ## Description
 
 This is a web application made to track and manage your appointments in the browser.
 
 ## Table of Contents
--[Getting Started](https://github.com/Sankara98/Appointment-React-Application#getting-started)
--[Visuals](https://github.com/Sankara98/Appointment-React-Application#visuals)
--[Available Scripts](https://github.com/Sankara98/Appointment-React-Application#available-scripts)
-    -[npm start](https://github.com/Sankara98/Appointment-React-Application#npm-start)
-    -[npm test](https://github.com/Sankara98/Appointment-React-Application#npm-test)
-    -[npm run build](https://github.com/Sankara98/Appointment-React-Application#npm-run-build)
-    -[npm run eject](https://github.com/Sankara98/Appointment-React-Application#npm-run-eject)
--[RoadMap](https://github.com/Sankara98/Appointment-React-Application#roadmap)
--[Contributing](https://github.com/Sankara98/Appointment-React-Application#contributing)
+- [Getting Started](https://github.com/Sankara98/Appointment-React-Application#getting-started)
+- [Visuals](https://github.com/Sankara98/Appointment-React-Application#visuals)
+- [Available Scripts](https://github.com/Sankara98/Appointment-React-Application#available-scripts)
+    - npm start](https://github.com/Sankara98/Appointment-React-Application#npm-start)
+    - [npm test](https://github.com/Sankara98/Appointment-React-Application#npm-test)
+    - [npm run build](https://github.com/Sankara98/Appointment-React-Application#npm-run-build)
+    - [npm run eject](https://github.com/Sankara98/Appointment-React-Application#npm-run-eject)
+- [RoadMap](https://github.com/Sankara98/Appointment-React-Application#roadmap)
+- [Contributing](https://github.com/Sankara98/Appointment-React-Application#contributing)
 
 ## Getting Started
 To check out the application directory, clone it  [here](https://sankara98.github.io/Appointment-React-Application/).
@@ -61,8 +65,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## RoadMap
 
 If you want to see a new feature feel free to [create a new Issue](https://github.com/Sankara98/Appointment-React-Application/issues/new). Here are some features which are either under way or planned:
-    - API Integration tracking new users.
-    - UI improvments.
+- API Integration tracking new users.
+- UI improvments.
 
 
 ## Contributing
